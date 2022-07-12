@@ -1,1 +1,9 @@
+The libraries themselves are neatly categorised into four different categories:
 
+Core or Data Structures → These are commonly used core python libraries like Geopandas, Rasterio, Shapely, GDAL, Proj, etc.
+
+Analysis & Modeling → Packages specificity for Analysis and modelling are included in this category, for example, Scikit Learn, Pysal, MovingPandas, Satsmodels etc.
+
+Visualisation → Packages with visualisation and cartography primary usage are grouped in this category like Leafmap, Contextly, Bokeh, Folium, and Matplotlib
+
+Data Extraction or processing → Like Sentinelsat, Whitebox, OSMNx, and Geopy.
